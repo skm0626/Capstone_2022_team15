@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for file1 in /home/foscar/다운로드/AIHUB고해상도/*
+for file1 in /home/foscar/다운로드/High_Resolution/*
 do
 	for file2 in $file1/*
 	do
