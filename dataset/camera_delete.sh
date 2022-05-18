@@ -14,6 +14,8 @@ do
 					find . -name '*C2*' -type f -exec rm -rf {} \;
 					find . -name '*C3*' -type f -exec rm -rf {} \;
 					find . -name '*C4*' -type f -exec rm -rf {} \;
+					find . -name '*C5*' -type f -exec rm -rf {} \;
+					find . -name '*C6*' -type f -exec rm -rf {} \;
 					find . -name '*C8*' -type f -exec rm -rf {} \;
 					find . -name '*C9*' -type f -exec rm -rf {} \;
 					find . -name '*C10*' -type f -exec rm -rf {} \;
