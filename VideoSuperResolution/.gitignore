@@ -1,0 +1,30 @@
+# Temp work dir
+seafile-ignore.txt
+.idea/
+.vscode/
+.pytest_cache/
+.vsr/
+__pycache__/
+
+# Install info.
+*.egg-info/
+
+# Intermediate output files
+Results/
+Train/*.sh
+build/
+dist/
+
+# NDA
+Exp/
+Exp
+
+# Images
+.png
+.jpg
+.jpeg
+.bmp
+.yuv
+.rgb
+.nv12
+.pyc
