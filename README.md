@@ -12,4 +12,4 @@ Interview For You
 - lightweightGan(stylegan2-pytorch쓰다가 너무 오래걸려서 바꿈)
 - gfpgan (srgan, esrgan도 써봤는데 효과 별로였음)
 - faceswap(deepfacelab_linux도 써봤는데 효과 별로였음)
-- wav2lip : colab에서 실행함(코랩 코드)
+- wav2lip : colab에서 실행함(코랩 코드 참고)
